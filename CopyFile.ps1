@@ -1,1 +1,0 @@
-Get-Content $args[0] -Raw | Set-Clipboard
