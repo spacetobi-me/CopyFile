@@ -1,9 +1,3 @@
-# CopyFile
-Neuer Dateityp (.copy) kopiert den Textinhalt der Datei mit der Endung (.copy) sofort in die Zwischenablage
+New file type (.copy) instantly copies the file's text content to the clipboard.
 
-CopyFile ist eine Erweiterung für die Windows-Shell (Explorer), die einen spezialisierten Handler für die Dateiendung .copy registriert. Statt Dokumente wie herkömmliche Textdateien in einem Editor zu öffnen, fängt dieses Tool den Ausführungs-Befehl (Shell-Open) ab. Ein einfacher Doppelklick genügt, um den Rohdatenstrom der Datei direkt in den Windows-Zwischenspeicher (Clipboard) zu pipen – vollautomatisch, geräuschlos und hocheffizient.
-
-# Benutzung
-- Text Datei erstellen mit dem Inhalt der kopiert werden soll
-- Speichern und die Endung zu .copy ändern
-
+CopyFile is an extension for the Windows Shell (Explorer) that registers a specialized handler for the .copy file extension. Instead of opening documents in a text editor like conventional files, this tool intercepts the execution command (Shell-Open). A simple double-click is all it takes to pipe the raw data stream of the file directly into the Windows clipboard—fully automatic, silent, and highly efficient.
