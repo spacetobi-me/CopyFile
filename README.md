@@ -6,5 +6,5 @@ CopyFile is an extension for the Windows Shell (Explorer) that registers a speci
 
 # Usage
 
-- Create a text file containing the content you want to copy.
-- Save the file and change its extension to .copy.
+- Create a text file containing the content you want to copy
+- Save the file and change its extension to .copy
